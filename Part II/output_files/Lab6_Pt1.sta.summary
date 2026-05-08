@@ -1,0 +1,137 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'cpuClk'
+Slack : -17.695
+TNS   : -1304.703
+
+Type  : Slow 1200mV 85C Model Setup 'memClk'
+Slack : -16.353
+TNS   : -238.702
+
+Type  : Slow 1200mV 85C Model Setup 'cpu1:main_processor|reset_circuit:reset|enable_PD'
+Slack : -3.225
+TNS   : -17.053
+
+Type  : Slow 1200mV 85C Model Hold 'cpuClk'
+Slack : -0.063
+TNS   : -0.801
+
+Type  : Slow 1200mV 85C Model Hold 'memClk'
+Slack : 0.005
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'cpu1:main_processor|reset_circuit:reset|enable_PD'
+Slack : 0.059
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'cpuClk'
+Slack : -3.120
+TNS   : -233.842
+
+Type  : Slow 1200mV 85C Model Removal 'cpuClk'
+Slack : -0.204
+TNS   : -4.278
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'cpuClk'
+Slack : -3.000
+TNS   : -185.593
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'memClk'
+Slack : -3.000
+TNS   : -151.717
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'cpu1:main_processor|reset_circuit:reset|enable_PD'
+Slack : 0.395
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'cpuClk'
+Slack : -16.351
+TNS   : -1197.038
+
+Type  : Slow 1200mV 0C Model Setup 'memClk'
+Slack : -15.141
+TNS   : -213.312
+
+Type  : Slow 1200mV 0C Model Setup 'cpu1:main_processor|reset_circuit:reset|enable_PD'
+Slack : -2.876
+TNS   : -14.848
+
+Type  : Slow 1200mV 0C Model Hold 'cpuClk'
+Slack : -0.010
+TNS   : -0.010
+
+Type  : Slow 1200mV 0C Model Hold 'cpu1:main_processor|reset_circuit:reset|enable_PD'
+Slack : 0.054
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'memClk'
+Slack : 0.109
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'cpuClk'
+Slack : -2.758
+TNS   : -201.793
+
+Type  : Slow 1200mV 0C Model Removal 'cpuClk'
+Slack : -0.189
+TNS   : -3.997
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'cpuClk'
+Slack : -3.000
+TNS   : -185.549
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'memClk'
+Slack : -3.000
+TNS   : -150.001
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'cpu1:main_processor|reset_circuit:reset|enable_PD'
+Slack : 0.479
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'cpuClk'
+Slack : -8.192
+TNS   : -584.117
+
+Type  : Fast 1200mV 0C Model Setup 'memClk'
+Slack : -7.578
+TNS   : -63.402
+
+Type  : Fast 1200mV 0C Model Setup 'cpu1:main_processor|reset_circuit:reset|enable_PD'
+Slack : -1.270
+TNS   : -4.238
+
+Type  : Fast 1200mV 0C Model Hold 'cpuClk'
+Slack : -0.260
+TNS   : -15.825
+
+Type  : Fast 1200mV 0C Model Hold 'memClk'
+Slack : -0.185
+TNS   : -0.370
+
+Type  : Fast 1200mV 0C Model Hold 'cpu1:main_processor|reset_circuit:reset|enable_PD'
+Slack : 0.003
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'cpuClk'
+Slack : -1.096
+TNS   : -69.379
+
+Type  : Fast 1200mV 0C Model Removal 'cpuClk'
+Slack : -0.254
+TNS   : -6.874
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'cpuClk'
+Slack : -3.000
+TNS   : -152.760
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'memClk'
+Slack : -3.000
+TNS   : -84.424
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'cpu1:main_processor|reset_circuit:reset|enable_PD'
+Slack : 0.322
+TNS   : 0.000
+
+------------------------------------------------------------
